@@ -1,0 +1,3 @@
+t/servroot
+lua_modules
+api-mgr/aws-auth.yaml
